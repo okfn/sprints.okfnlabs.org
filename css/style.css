@@ -14,10 +14,20 @@ img.logo {
   float: left;
   margin-right: 2em;
   margin-bottom: 1em;
+  margin-top: 2em;
+}
+
+img.main-logo {
+  margin-top: 4em;
 }
 
 h1 {
   font-size: 1.7em;
+}
+
+h1.main {
+  text-align: center;
+  margin-bottom: 1em;
 }
 
 h1, h2, h3 {
@@ -39,8 +49,15 @@ p.teaser {
   font-style: italic;
 }
 
-li {
-  margin-top: 0.7em;
+li {  margin-top: 0.7em;
+}
+
+hr {
+  
+} 
+
+a:hover {
+  text-decoration: none;
 }
 
 footer {
@@ -51,9 +68,5 @@ footer {
 footer span {
   display: block;
   text-align: center;
-}
-
-#okf-logo {
-
 }
 

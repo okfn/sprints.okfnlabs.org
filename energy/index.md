@@ -9,13 +9,17 @@ title: OKFN Labs Energy Sprint
   <small>October 1<sup>st</sup>-8<sup>th</sup>, 2012 &mdash; Berlin, Germany.</small>
 </h1>
 
-<p class="teaser">One promise of open data is that it will help us to find new ways to look at the world we live in, to highlight and explain policy options. This is a big promise, but we want to find humble and meaningful ways to make good on it. We’ve decided to start <a href="/">a series of experiments</a> in which a small team from diverse backgrounds will work for a week-long sprint and tackle a policy question to produce a simple data-driven application to explain the issue.</p>
+<p class="teaser">Our first sprint will focus on the theme of <strong>energy</strong>. Ensuring a sustainable energy supply
+without depleting natural resources and destroying the environment we live in is one of the toughest challenges we face.</p>
 
-<p>The first challenge will focus on a theme of <strong>energy</strong>: renewable energy resources and energy efficiency, fossil fuels and traditional energy structures, electricity demand and supply, government spending around energy policies as well as emissions from energy use in transport, industry, etc.</p>
+<p class="teaser">We need to understand what can be achieved with smart technologies and good policy in order
+to produce sustainably, to reduce consumption and to bring down emissions.</p>
 
 <p>
 <a href="/">What are Sprints?</a> &middot; <a href="http://okfnlabs.org">What is OKFN Labs?</a>
 </p>
+
+<div class="clearfix"></div>
 
 <h2>Become our partner</h2>
 
