@@ -16,6 +16,10 @@ img.logo {
   margin-bottom: 1em;
 }
 
+h1 {
+  font-size: 1.7em;
+}
+
 h1, h2, h3 {
   font-family: "OpenSansBold", "Helvetica Neue", sans-serif;
   margin-top: 0.7em;
