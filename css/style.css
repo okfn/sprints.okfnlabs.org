@@ -1,0 +1,42 @@
+body {
+  font-size: 1.4em;
+  line-height: 1.5em;
+
+  background: url(/img/bg.jpeg);
+  
+  font-family: "Palatino Linotype","Book Antiqua",Palatino,FreeSerif,serif;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 60);
+  
+  padding-top: 4em;
+}
+
+h1 {
+  font-family: "OpenSansBold", "Helvetica Neue", sans-serif;
+}
+
+p {
+  margin-top: 0.5em;
+}
+
+p.teaser {
+  font-style: italic;
+}
+
+li {
+  margin-top: 0.6em;
+}
+
+footer {
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+
+footer span {
+  display: block;
+  text-align: center;
+}
+
+#okf-logo {
+
+}
+
