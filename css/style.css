@@ -10,12 +10,22 @@ body {
   padding-top: 4em;
 }
 
+img.logo {
+  float: left;
+  margin-right: 2em;
+}
+
 h1 {
   font-family: "OpenSansBold", "Helvetica Neue", sans-serif;
 }
 
+h1 small {
+  margin-top: 0.7em;
+  display: block;
+}
+
 p {
-  margin-top: 0.5em;
+  margin-top: 0.7em;
 }
 
 p.teaser {
@@ -23,7 +33,7 @@ p.teaser {
 }
 
 li {
-  margin-top: 0.6em;
+  margin-top: 0.7em;
 }
 
 footer {
