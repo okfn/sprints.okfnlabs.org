@@ -15,7 +15,7 @@ title: OKFN Labs Sprints
 <ul>
   <li><a href="/energy">Energy</a>, 
       October 1<sup>st</sup>-8<sup>th</sup>, 2012</li>
-  <li>Your idea? E-Mail us!</li>
+  <li>Your idea? E-Mail us: <em>sprints@okfn.org</em></li>
 </ul>
 
 <h2>Why have sprints?</h2>
@@ -24,7 +24,3 @@ title: OKFN Labs Sprints
 
 <p>At the same time, we want to encourage our team to choose a realistic goal: an application that can be finished and polished in a single week, with a team of five. To accomplish this, we’ll lock ourselves into a shared space for this time and to fully focus on making.</p>
 
-
-<p>
-Contact: <em>sprints@okfn.org</em>
-</p>

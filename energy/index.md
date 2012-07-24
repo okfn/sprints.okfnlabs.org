@@ -5,7 +5,7 @@ title: OKFN Labs Energy Sprint
 
 <img src="/img/turbine-tent.png" class="logo">
 <h1>
-  {{page.title}}
+  Energy Sprint
   <small>October 1<sup>st</sup>-8<sup>th</sup>, 2012 &mdash; Berlin, Germany.</small>
 </h1>
 
