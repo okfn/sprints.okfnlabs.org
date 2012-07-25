@@ -8,7 +8,7 @@ title: OKFN Labs Sprints
 
 <img src="/img/tent.png" class="logo main-logo">
 
-<p class="teaser">One promise of open data is that it will help us to find new ways to look at the world we live in, to highlight and explain policy options. This is a big promise, but we want to find modest and meaningful ways to make good on it.</p>
+<p class="teaser">One promise of open data is that it will help us to find new ways to understand and respond to the world we live in. This is a big promise, but we want to find modest and meaningful ways to make good on it.</p>
 <p class="teaser">We’ve decided to start a series of week-long sprints, convening small teams of domain experts, data wranglers and developers to create useful data-driven applications that help to answer questions and unpack issues in a variety of different areas.</p>
 
 <h2>Planned Sprints</h2>
