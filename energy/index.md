@@ -3,6 +3,10 @@ layout: default
 title: OKFN Labs Energy Sprint
 ---
 
+<div class="alert alert-error">Due to time contraints, we have been forced to
+postpone this workshop until next year. We would still appreciate 
+any input and contacts with regards to this event!</div>
+
 <img src="/img/turbine-tent.png" class="logo">
 <h1>
   Energy Sprint

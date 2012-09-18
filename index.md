@@ -14,7 +14,8 @@ title: OKFN Labs Sprints
 <h2>Planned Sprints</h2>
 <ul>
   <li><a href="/energy">Energy</a>, 
-      October 1<sup>st</sup>-8<sup>th</sup>, 2012</li>
+      October 1<sup>st</sup>-8<sup>th</sup>, 2012
+<strong>(Postponed)</strong></li>
   <li>Your idea? E-Mail us: <em>sprints@okfn.org</em></li>
 </ul>
 
